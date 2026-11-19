@@ -1,0 +1,132 @@
+loan_id,checkout_date,branch,genre,item_type,patron_age_group,loan_days,returned_date,overdues_days,fine_amount
+L0074,2026-03-16,Östra,Facklitteratur,Bok,Vuxen,21,2026-04-05,0,0.00
+L0019,2026-01-20,Östra,Teknik,Bok,Vuxen,21,2026-02-09,0,0.00
+L0108,2026-04-19,Norra,Biografi,Bok,Vuxen,21,2026-05-09,0,0.00
+L0043,2026-02-13,Norra,Biografi,Ljudbok,Senior,28,2026-03-12,0,0.00
+L0089,2026-03-31,Östra,Fantasy,E-bok,Vuxen,14,2026-04-17,3,15.00
+L0006,2026-01-07,Södra,Biografi,E-bok,Vuxen,21,2026-01-28,0,0.00
+L0122,2026-05-03,Centralbiblioteket,Teknik,Bok,Senior,28,2026-05-30,0,0.00
+L0057,2026-02-27,Centralbiblioteket,Romantik,Bok,Vuxen,21,2026-03-24,4,20.00
+L0031,2026-02-01,Södra,Barn,Bok,Barn,14,2026-02-15,0,0.00
+L0096,2026-04-07,Södra,Deckare,E-bok,Senior,28,2026-05-04,0,0.00
+L0012,2026-01-13,Norra,Deckare,Bok,Senior,28,2026-02-09,0,0.00
+L0068,2026-03-10,Norra,Deckare,E-bok,Vuxen,14,2026-03-26,2,10.00
+L0114,2026-04-25,Östra,Deckare,Ljudbok,Vuxen,14,2026-05-08,0,0.00
+L0025,2026-01-26,Västra,Barn,Bok,Barn,14,2026-02-07,0,0.00
+L0081,2026-03-23,Södra,Biografi,Bok,Ung vuxen,14,2026-04-08,2,10.00
+L0050,2026-02-20,Västra,Deckare,Bok,Vuxen,21,2026-03-11,0,0.00
+L0101,2026-04-12,Södra,Facklitteratur,Bok,Ung vuxen,14,2026-04-28,2,10.00
+L0002,2026-01-04,Norra,Sci-Fi,Bok,Ung vuxen,14,2026-01-22,4,20.00
+L0038,2026-02-08,Norra,Romantik,Bok,Vuxen,21,2026-03-04,3,15.00
+L0127,2026-05-08,Centralbiblioteket,Barn,Bok,Barn,14,2026-05-21,0,0.00
+L0061,2026-03-03,Södra,Fantasy,E-bok,Vuxen,14,2026-03-17,0,0.00
+L0015,2026-01-16,Västra,Biografi,Bok,Senior,28,2026-02-11,0,0.00
+L0092,2026-04-03,Centralbiblioteket,Facklitteratur,Bok,Vuxen,21,2026-04-27,3,15.00
+L0046,2026-02-16,Södra,Facklitteratur,Bok,Vuxen,21,2026-03-14,5,25.00
+L0118,2026-04-29,Norra,Historia,Bok,Ung vuxen,14,2026-05-15,2,10.00
+L0028,2026-01-29,Norra,Facklitteratur,Bok,Vuxen,21,2026-02-18,0,0.00
+L0070,2026-03-12,Västra,Fantasy,Bok,Ung vuxen,14,2026-03-30,4,20.00
+L0009,2026-01-10,Centralbiblioteket,Teknik,E-bok,Vuxen,14,2026-01-24,0,0.00
+L0053,2026-02-23,Norra,Fantasy,Bok,Vuxen,21,2026-03-15,0,0.00
+L0105,2026-04-16,Västra,Deckare,Bok,Vuxen,21,2026-05-06,0,0.00
+L0034,2026-02-04,Östra,Biografi,Bok,Vuxen,21,2026-02-23,0,0.00
+L0084,2026-03-26,Östra,Romantik,Bok,Senior,28,2026-04-22,0,0.00
+L0022,2026-01-23,Centralbiblioteket,Sci-Fi,Bok,Vuxen,21,2026-02-11,0,0.00
+L0111,2026-04-22,Södra,Barn,Bok,Barn,14,2026-05-05,0,0.00
+L0064,2026-03-06,Östra,Historia,Ljudbok,Vuxen,14,2026-03-19,0,0.00
+L0001,2026-01-03,Centralbiblioteket,Fantasy,Bok,Vuxen,21,2026-01-20,0,0.00
+L0048,2026-02-18,Norra,Romantik,E-bok,Vuxen,14,2026-03-04,0,0.00
+L0099,2026-04-10,Östra,Biografi,Bok,Vuxen,21,2026-04-29,0,0.00
+L0017,2026-01-18,Centralbiblioteket,Facklitteratur,Ljudbok,Vuxen,14,2026-01-31,0,0.00
+L0077,2026-03-19,Centralbiblioteket,Deckare,Bok,Vuxen,21,2026-04-08,0,0.00
+L0125,2026-05-06,Västra,Fantasy,Bok,Vuxen,21,2026-06-01,5,25.00
+L0036,2026-02-06,Södra,Fantasy,Ljudbok,Ung vuxen,14,2026-02-19,0,0.00
+L0086,2026-03-28,Södra,Deckare,Ljudbok,Ung vuxen,14,2026-04-13,2,10.00
+L0029,2026-01-30,Östra,Fantasy,Bok,Vuxen,21,2026-02-25,5,25.00
+L0055,2026-02-25,Västra,Barn,Bok,Barn,14,2026-03-13,2,10.00
+L0103,2026-04-14,Norra,Barn,Bok,Barn,14,2026-04-27,0,0.00
+L0010,2026-01-11,Västra,Fantasy,Ljudbok,Ung vuxen,14,2026-01-27,2,10.00
+L0066,2026-03-08,Södra,Romantik,Bok,Ung vuxen,14,2026-03-21,0,0.00
+L0120,2026-05-01,Västra,Facklitteratur,Bok,Vuxen,21,2026-05-25,3,15.00
+L0041,2026-02-11,Södra,Deckare,Bok,Ung vuxen,14,2026-02-28,3,15.00
+L0094,2026-04-05,Östra,Teknik,Bok,Vuxen,21,2026-04-24,0,0.00
+L0020,2026-01-21,Västra,Romantik,E-bok,Vuxen,14,2026-02-04,0,0.00
+L0072,2026-03-14,Centralbiblioteket,Biografi,Ljudbok,Vuxen,14,2026-03-27,0,0.00
+L0116,2026-04-27,Södra,Fantasy,Bok,Vuxen,21,2026-05-17,0,0.00
+L0004,2026-01-05,Västra,Historia,Bok,Senior,28,2026-02-05,3,15.00
+L0059,2026-03-01,Östra,Deckare,Bok,Vuxen,21,2026-03-20,0,0.00
+L0082,2026-03-24,Centralbiblioteket,Historia,E-bok,Vuxen,14,2026-04-07,0,0.0.0
+L0107,2026-04-18,Centralbiblioteket,Fantasy,Ljudbok,Ung vuxen,14,2026-05-05,3,15.00
+L0027,2026-01-28,Centralbiblioteket,Romantik,Bok,Ung vuxen,14,2026-02-13,2,10.00
+L0045,2026-02-15,Västra,Historia,Bok,Vuxen,21,2026-03-06,0,0.00
+L0090,2026-04-01,Västra,Biografi,Bok,Senior,28,2026-04-28,0,0.00
+L0014,2026-01-15,Östra,Historia,Bok,Vuxen,21,2026-02-08,3,15.00
+L0063,2026-03-05,Norra,Barn,Bok,Barn,14,2026-03-18,0,0.00
+L0113,2026-04-24,Norra,Teknik,Bok,Ung vuxen,14,2026-05-07,0,0.00
+L0033,2026-02-03,Norra,Sci-Fi,E-bok,Ung vuxen,14,2026-02-17,0,0.00
+L0079,2026-03-21,Östra,Barn,Bok,Barn,14,2026-04-05,1,5.00
+L0124,2026-05-05,Östra,Sci-Fi,E-bok,Vuxen,14,2026-05-18,0,0.00
+L0051,2026-02-21,Södra,Sci-Fi,Ljudbok,Ung vuxen,14,2026-03-06,0,0.00
+L0098,2026-04-09,Norra,Fantasy,Bok,Vuxen,21,2026-05-04,4,20.00
+L0008,2026-01-09,Östra,Romantik,Bok,Ung vuxen,14,2026-01-22,0,0.00
+L0069,2026-03-11,Östra,Sci-Fi,Bok,Vuxen,21,2026-03-31,0,0.00
+L0102,2026-04-13,Centralbiblioteket,Romantik,Bok,Vuxen,21,2026-05-03,0,0.00
+L0024,2026-01-25,Östra,Biografi,Bok,Vuxen,21,2026-02-19,4,20.00
+L0040,2026-02-10,Västra,Teknik,E-bok,Vuxen,14,2026-02-24,0,0.00
+L0087,2026-03-29,Centralbiblioteket,Barn,Bok,Barn,14,2026-04-11,0,0.00
+L0119,2026-04-30,Östra,Barn,Bok,Barn,14,2026-05-13,0,0.00
+L0016,2026-01-17,Södra,Fantasy,Bok,Ung vuxen,14,2026-02-04,4,20.00
+L0058,2026-02-28,Norra,Teknik,Ljudbok,Vuxen,14,2026-03-13,0,0.00
+L0095,2026-04-06,Västra,Barn,Bok,Barn,14,2026-04-22,2,10.00
+L0030,2026-01-31,Västra,Teknik,Ljudbok,Vuxen,14,2026-02-13,0,0.00
+L0075,2026-03-17,Västra,Romantik,E-bok,Ung vuxen,14,2026-03-31,0,0.00
+L0110,2026-04-21,Västra,Facklitteratur,E-bok,Vuxen,14,2026-05-04,0,0.00
+L0003,2026-01-05,Östra,Deckare,Ljudbok,Vuxen,14,2026-01-18,0,0.00
+L0047,2026-02-17,Centralbiblioteket,Barn,Bok,Barn,14,2026-03-02,0,0.00
+L0085,2026-03-27,Västra,Teknik,Bok,Vuxen,21,2026-04-16,0,0.00
+L0128,2026-05-09,Norra,Historia,Ljudbok,Vuxen,14,2026-05-25,2,10.00
+L0021,2026-01-22,Södra,Deckare,Bok,Senior,28,2026-02-22,3,15.00
+L0062,2026-03-04,Centralbiblioteket,Biografi,Bok,Senior,28,2026-04-04,3,15.00
+L0104,2026-04-15,Östra,Teknik,E-bok,Vuxen,14,2026-05-02,3,15.00
+L0035,2026-02-05,Västra,Historia,Bok,Vuxen,21,2026-03-01,3,15.00
+L0071,2026-03-13,Södra,Barn,Bok,Barn,14,2026-03-26,0,0.00
+L0091,2026-04-02,Södra,Historia,Bok,Ung vuxen,14,2026-04-15,0,0.00
+L0011,2026-01-12,Södra,Barn,Bok,Barn,14,2026-01-25,0,0.00
+L0052,2026-02-22,Centralbiblioteket,Biografi,Bok,Vuxen,21,2026-03-18,3,15.00
+L0115,2026-04-26,Västra,Sci-Fi,Bok,Vuxen,21,2026-05-21,4,20.00
+L0026,2026-01-27,Södra,Historia,E-bok,Senior,28,2026-02-24,0,0.00
+L0067,2026-03-09,Centralbiblioteket,Teknik,Bok,Senior,28,2026-04-05,0,0.00
+L0080,2026-03-22,Västra,Fantasy,Ljudbok,Vuxen,14,2026-04-04,0,0.00
+L0100,2026-04-11,Västra,Historia,Ljudbok,Senior,28,2026-05-08,0,0.00
+L0007,2026-01-08,Norra,Facklitteratur,Bok,Vuxen,21,2026-02-03,5,25.00
+L0044,2026-02-14,Östra,Fantasy,Bok,Ung vuxen,14,2026-03-02,2,10.00
+L0088,2026-03-30,Norra,Sci-Fi,Bok,Vuxen,21,2026-04-19,0,0.00
+L0121,2026-05-02,Södra,Romantik,Ljudbok,Vuxen,14,2026-05-15,0,0.00
+L0018,2026-01-19,Norra,Barn,Bok,Barn,14,2026-02-04,2,10.00
+L0056,2026-02-26,Södra,Facklitteratur,Bok,Ung vuxen,14,2026-03-11,0,0.00
+L0093,2026-04-04,Norra,Romantik,Ljudbok,Vuxen,14,2026-04-17,0,0.00
+L0037,2026-02-07,Centralbiblioteket,Facklitteratur,Bok,Senior,28,2026-03-07,0,0.00
+L0076,2026-03-18,Södra,Teknik,Bok,Vuxen,21,2026-04-12,4,20.00
+L0112,2026-04-23,Centralbiblioteket,Romantik,Bok,Senior,28,2026-05-23,2,10.00
+L0023,2026-01-24,Norra,Fantasy,Ljudbok,Ung vuxen,14,2026-02-06,0,0.00
+L0060,2026-03-02,Västra,Sci-Fi,Bok,Ung vuxen,14,2026-03-18,2,10.00
+L0097,2026-04-08,Centralbiblioteket,Sci-Fi,Bok,Ung vuxen,14,2026-04-21,0,0.00
+L0013,2026-01-14,Centralbiblioteket,Sci-Fi,E-bok,Ung vuxen,14,2026-01-28,0,0.00
+L0049,2026-02-19,Östra,Teknik,Bok,Senior,28,2026-03-21,2,10.00
+L0083,2026-03-25,Norra,Facklitteratur,Bok,Vuxen,21,2026-04-20,5,25.00
+L0126,2026-05-07,Södra,Biografi,Bok,Senior,28,2026-06-03,0,0.00
+L0032,2026-02-02,Centralbiblioteket,Deckare,Bok,Senior,28,2026-03-04,2,10.00
+L0065,2026-03-07,Västra,Facklitteratur,Bok,Vuxen,21,2026-03-31,3,15.00
+L0106,2026-04-17,Södra,Sci-Fi,Bok,Senior,28,2026-05-14,0,0.00
+L0005,2026-01-06,Centralbiblioteket,Barn,Bok,Barn,14,2026-01-19,0,0.00
+L0042,2026-02-12,Centralbiblioteket,Sci-Fi,Bok,Vuxen,21,2026-03-04,0,0.00
+L0078,2026-03-20,Norra,Sci-Fi,Bok,Senior,28,2026-04-16,0,0.00
+L0117,2026-04-28,Centralbiblioteket,Biografi,E-bok,Senior,28,2026-05-25,0,0.00
+L0020,2026-01-21,Västra,Romantik,E-bok,Vuxen,14,2026-02-04,0,0.00
+L0054,2026-02-24,Östra,Historia,E-bok,Senior,28,2026-03-23,0,0.00
+L0092,2026-04-03,Centralbiblioteket,Facklitteratur,Bok,Vuxen,21,2026-04-27,3,15.00
+L0123,2026-05-04,Norra,Deckare,Bok,Ung vuxen,14,2026-05-21,3,15.00
+L0039,2026-02-09,Östra,Barn,Bok,Barn,14,2026-02-22,0,0.00
+L0073,2026-03-15,Norra,Historia,Bok,Senior,28,2026-04-15,3,15.00
+L0109,2026-04-20,Östra,Historia,Bok,Vuxen,21,2026-05-14,3,15.00
+L0046,2026-02-16,Södra,Facklitteratur,Bok,Vuxen,21,2026-03-14,5,25.00
