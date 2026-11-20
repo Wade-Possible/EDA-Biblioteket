@@ -1,4 +1,4 @@
-loan_id,checkout_date,branch,genre,item_type,patron_age_group,loan_days,returned_date,overdues_days,fine_amount
+loan_id,checkout_date,branch,genre,item_type,patron_age_group,loan_days,returned_date,overdue_days,fine_amount
 L0074,2026-03-16,Östra,Facklitteratur,Bok,Vuxen,21,2026-04-05,0,0.00
 L0019,2026-01-20,Östra,Teknik,Bok,Vuxen,21,2026-02-09,0,0.00
 L0108,2026-04-19,Norra,Biografi,Bok,Vuxen,21,2026-05-09,0,0.00
