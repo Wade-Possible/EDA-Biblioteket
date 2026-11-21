@@ -8,3 +8,39 @@ def avg_loan_days(df: pd.DataFrame) -> float:
 
 def overdue_rate(df: pd.DataFrame) -> float:
     return float((df["overdue_days"] > 0).mean())
+
+def loans_by_genre(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Delar upp raderna per genre och räknar lån i varje grupp
+    """
+    return (
+        df.groupby("genre", dropna=False)["loan_id"]
+        .nunique()
+        .sort_values(ascending=False)
+        .reset_index(name="loans")
+    )
+
+def loans_by_branch(df: pd.DataFrame) -> pd.DataFrame:
+    return (
+            df.groupby("branch", dropna=False)["loan_id"]
+            .nunique()
+            .sort_values(ascending=False)
+            .reset_index(name="loans")
+        )
+
+def loans_by_type(df: pd.DataFrame) -> pd.DataFrame:
+    return (
+                df.groupby("item_type", dropna=False)["loan_id"]
+                .nunique()
+                .sort_values(ascending=False)
+                .reset_index(name="loans")
+            )
+
+def loans_by_age(df: pd.DataFrame) -> pd.DataFrame:
+    return (
+                df.groupby("patron_age_group", dropna=False)["loan_id"]
+                .nunique()
+                .sort_values(ascending=False)
+                .reset_index(name="loans")
+            )
+    
